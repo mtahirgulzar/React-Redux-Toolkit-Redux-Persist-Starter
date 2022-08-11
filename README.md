@@ -1,4 +1,4 @@
-# Getting Started with Create React App, Redux Toolkit and Redux-Persist
+# Getting Started
 React/Next with redux-toolkit and redux-persist minimal/starter
 ## Install Dependencies 
 ### `npm start` or `yarn`
